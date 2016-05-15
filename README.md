@@ -1,1 +1,1 @@
-# Python-Twitter-Tweet-Sender-Bot
+# Python - Twitter Tweet Sender Bot
